@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[sushi-restaurant-crm wireframe](https://github.com/mainHoots/sushi-restaurant-crm/blob/main/Restaurant%20CRM%20Web%20Wireframe.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Brian's LiftOff Project Board](https://trello.com/b/oZiHguY6/brians-liftoff-project-board)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[sushi-restaurant-crm](https://github.com/mainHoots/sushi-restaurant-crm)
