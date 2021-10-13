@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[sushi-restaurant-crm wireframe](https://github.com/mainHoots/sushi-restaurant-crm/blob/main/Restaurant%20CRM%20Web%20Wireframe.pdf)
+[sushi-restaurant-crm wireframe](https://github.com/mainHoots/sushi-restaurant-crm/blob/096a74384adec092d856a1d76fdc33d280a0aea2/Restaurant%20CRM%20Web%20Wireframe.jpg)
 
 ### Project Tracker
 
